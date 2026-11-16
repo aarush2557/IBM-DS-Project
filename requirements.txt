@@ -1,0 +1,7 @@
+# Libraries needed for the Diwali Sales Dashboard
+# Install them all with:  pip install -r requirements.txt
+streamlit>=1.50.0
+pandas
+numpy
+plotly
+openpyxl

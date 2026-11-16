@@ -1,0 +1,43 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Anaconda environments
+env/
+venv/
+.venv/
+conda-meta/
+pkgs/
+envs/
+
+# Anaconda configuration
+.condarc
+.anaconda/
+
+# Python virtual environments
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Secrets
+.env
+.env.*
+!.env.example
